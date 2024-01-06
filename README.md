@@ -12,4 +12,4 @@ around 20 crops. The 7 in 1 Integrated Soil Sensor is used to collect the soil
 details, upon which a suitable crop is recommended and an appropriate yield is
 calculated. A simple mobile application is designed using React Native, which
 can be used to interact with the system and obtain real-time recommendations.
-An extension of [AgriCRYP] (https://github.com/Shrish236/agriCRYP)
+An extension of [AgriCRYP](https://github.com/Shrish236/agriCRYP)
